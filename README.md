@@ -1,5 +1,7 @@
 # WebPJS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/obartra/webpjs.svg)](https://greenkeeper.io/)
+
 This package contains the library created by Dominik Homberger and have no modifications. Any issues should be reported on that site https://webpjs.appspot.com/.
 
 The goal of this repo is to simplify importing this library by other npm packages.
