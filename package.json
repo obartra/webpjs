@@ -1,0 +1,23 @@
+{
+  "name": "webpjs",
+  "version": "0.0.2",
+  "description": "npm-published copy of https://webpjs.appspot.com/",
+  "main": "webpjs.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obartra/webpjs.git"
+  },
+  "keywords": [
+    "webpjs",
+    "webp"
+  ],
+  "author": "Oscar Bartra",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/obartra/webpjs/issues"
+  },
+  "homepage": "https://github.com/obartra/webpjs#readme"
+}
